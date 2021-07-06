@@ -1,2 +1,2 @@
 # cryptopriceapp
-![Crypto Price App](crypto-price-app/cryptopriceapp.png)
+![Crypto Price App](crypto-price/cryptopriceapp.png)
